@@ -14,7 +14,7 @@ metadata:
     - url: https://github.com/anton-freyberg/platform-engineering-demo-FR10.git
       title: Github Repo
       icon: github
-    - url: https://sturdy-zebra-46p99w9g7xrh7v4v-DEMO_APP_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://sturdy-zebra-46p99w9g7xrh7v4v-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
